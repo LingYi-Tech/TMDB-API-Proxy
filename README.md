@@ -18,4 +18,4 @@
 
 2. 绑定自己的域名(必须，因为自带的域名vercel.app在国内基本不可用) 
 
-3. 你自己绑定的域名就是TMDB-API的代理域名，会代理 api.tmdb.org 和 image.tmdb.org
+3. 你自己绑定的域名就是tmdb-api的代理域名，会代理 api.tmdb.org 和 image.tmdb.org
